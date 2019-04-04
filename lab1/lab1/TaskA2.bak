@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:lab1-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -97,10 +98,10 @@ Wire Wire Line
 	5500 4500 5500 5000
 Connection ~ 5750 5000
 $Comp
-L Relay:FINDER-40.52 K?
+L Relay:FINDER-40.52 K1
 U 1 1 5CA6366E
 P 5900 4200
-F 0 "K?" H 6530 4246 50  0000 L CNN
+F 0 "K1" H 6530 4246 50  0000 L CNN
 F 1 "FINDER-40.52" H 6530 4155 50  0000 L CNN
 F 2 "Relay_THT:Relay_DPDT_Finder_40.52" H 7250 4170 50  0001 C CNN
 F 3 "http://gfinder.findernet.com/assets/Series/353/S40EN.pdf" H 5700 4200 50  0001 C CNN
